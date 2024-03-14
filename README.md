@@ -1,2 +1,1 @@
-# QA
-Pass questions and answers
+# Navigation
