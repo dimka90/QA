@@ -10,7 +10,9 @@ body{
     /* background-repeat: no-repeat;
     background-size: cover;
     height: 100vh; */
-    font-family:
+    font-family: "Roboto Flex", sans-serif;
+    
+
 }
 a{
     /* color: white; */
@@ -22,6 +24,18 @@ a{
     margin: 0px auto;
 }
 
+.answer
+{
+    padding-top: 0.5em;
+    font-weight: bold;
+    
+}
+
+div > p{
+
+    font-size:1.5em;
+    padding-block: 1em;
+}
 /* utlity class */
 .d-flex{
     display: flex;
@@ -186,5 +200,9 @@ padding-bottom: 0px;
     button:hover{
         /* display: none; */
     }
+ li{
+font-size: 1.5em;
+padding-block: 0.2em;
+ }
    
 }
